@@ -1,3 +1,4 @@
+<img src="https://anyapages.github.io/images/ui/misc/mylogo.png" alt="mylogo" width="130" height="80"/>
 <h1 align="center">Hello there 😊, I'm 'Anya!</h1>
 <h3 align="center">A lifelong-learner from Thailand 🇹🇭</h3>
 
