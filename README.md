@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm 'Anya!</h1>
+<h1 align="center">Hello there 😊, I'm 'Anya!</h1>
 <h3 align="center">A lifelong-learner from Thailand</h3>
 
 <li> 👩🏻‍💻 All of my projects are available at <a href="https://anyapages.github.io"</a> My website</li>
