@@ -2,7 +2,7 @@
 <h1 align="center">Hello there 😊, I'm 'Anya!</h1>
 <h3 align="center">A lifelong-learner from Thailand 🇹🇭</h3>
 
-<li> 👩🏻‍💻 All of my projects are available at <a href="https://anyapages.github.io"</a> My website</li>
+<li> 👩🏻‍💻 All of my projects are available at <a href="http://anyapages.com/"</a> My website</li>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anyapages&show_icons=true&locale=en" alt="anyapages" /></p>
 
