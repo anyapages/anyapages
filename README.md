@@ -2,8 +2,8 @@
 <h1 align="center">Hello there 😊, I'm 'Anya!</h1>
 <h3 align="center">A lifelong-learner from Thailand 🇹🇭</h3>
 
-<li> 📧 Reach me **paranya@anyapages.com** </li>
-<li> 👩🏻‍💻 My projects are available at <a href="http://anyapages.com/"</a> My website</li>
+<li> 📧 paranya@anyapages.com</li>
+<li> 👩🏻‍💻 <a href="http://anyapages.com/"</a> My website</li>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
