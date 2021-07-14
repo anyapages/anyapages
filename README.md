@@ -3,7 +3,7 @@
 <h3 align="center">A lifelong-learner from Thailand 🇹🇭</h3>
 
 <li> 📧 paranya@anyapages.com</li>
-<li> 👩🏻‍💻 <a href="http://anyapages.com/"</a> My website</li>
+<li> 👩🏻‍💻 <a href="http://anyapages.com/"</a> My website portfolio</li>
 <br>
 
 <img src="https://anyapages.com/images/portfolio/myOctocat.png" title="#myOctocat" width="250" height="250"/>
