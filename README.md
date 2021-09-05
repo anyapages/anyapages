@@ -2,7 +2,7 @@
 <h1 align="center">Hello there 😊, I'm 'Anya!</h1>
 <h3 align="center">A lifelong-learner from Thailand 🇹🇭</h3>
 
-<li> 👩🏻‍💻 <a href="http://anyapages.com/"</a> Website Portfolio</li>
+<li> 👩🏻‍💻 <a href="http://anyaparanya.com/"</a> Website Portfolio</li>
 <li> <a href="http://paranyac-banking-application.s3-website-us-east-1.amazonaws.com/#/"</a> Banking App - Demo </li>
 <br>
 
