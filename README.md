@@ -4,10 +4,9 @@
 
 <li> 👩🏻‍💻 <a href="http://anyapages.com/"</a> Website Portfolio</li>
 <li> <a href="http://paranyac-banking-application.s3-website-us-east-1.amazonaws.com/#/"</a> Banking App - Demo </li>
-<li> <a href="https://www.youtube.com/watch?v=EJzMEzKjG0E"</a> Walk-Through VDO </li>
 <br>
 
-<img src="https://anyapages.com/images/portfolio/myOctocat.png" title="#myOctocat" width="250" height="250"/>
+<img src="https://anyaparanya.com/images/portfolio/myOctocat.png" title="#myOctocat" width="250" height="250"/>
 
 <a href="https://app.daily.dev/anyap"><img src="https://api.daily.dev/devcards/1bd2c50b70c3445fb30320c641b748db.png?r=ate" width="400" alt="Anya's Dev Card"/></a>
 
