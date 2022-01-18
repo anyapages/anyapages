@@ -3,7 +3,6 @@
 <h3 align="center">A lifelong-learner from Thailand 🇹🇭</h3>
 
 <li> 👩🏻‍💻 <a href="http://anyaparanya.com/"</a> Website Portfolio</li>
-<li> 🥙 <a href="https://paranyac-restaurantapp.herokuapp.com/"</a>Full Stack Restaurant App</li>
 
 <br>
 
