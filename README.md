@@ -2,8 +2,6 @@
 <h1 align="center">Hi there 😊, I'm 'Anya!</h1>
 <h3 align="center">A lifelong-learner from Thailand 🇹🇭</h3>
 
-<li> 👩🏻‍💻 <a href="http://anyaparanya.com/"</a> Website Portfolio</li>
-
 <br>
 
 <img src="https://anyaparanya.com/images/portfolio/myOctocat.png" title="#myOctocat" width="250" height="250"/>
