@@ -1,6 +1,6 @@
 <img src="https://anyapages.github.io/images/ui/misc/ilogo.png" alt="mylogo" width="150" height="130"/>
 <h1 align="center">Hi there, I'm 'Anya!</h1>
-<h3 align="center">A lifelong-learner from Thailand 🇹🇭</h3>
+<h3 align="center">an Advanced CS student from Thailand 🇹🇭</h3>
 
 <br>
 
