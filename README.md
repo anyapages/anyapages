@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm 'Anya!</h1>
 <h3 align="center">a lifelong learner</h3>
 
-<p align="center"><a href="https://bmc.link/anyaparanya" target="_blank">Buy me coffee! :)</a></p>
+<p align="center"><a href="https://bmc.link/anyaparanya" target="_blank">Buy me a coffee! :)</a></p>
 
 <br>
                                             
