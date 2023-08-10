@@ -2,6 +2,8 @@
 <h1 align="center">Hi there, I'm 'Anya!</h1>
 <h3 align="center">a lifelong learner</h3>
 
-<br>
+<p align="center"><a href="https://bmc.link/anyaparanya" target="_blank">Buy me coffee! :)</a></p>
 
+<br>
+                                            
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anyapages&label=Profile%20views&color=0e75b6&style=flat" alt="anyapages" /> </p>
