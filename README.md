@@ -1,6 +1,6 @@
 <img src="https://anyapages.github.io/images/ui/misc/anya.works-2.png" alt="mylogo" align="center" width="280" height="280"/>
-<h1>Hi there, I'm Anya!</h1>
-<h3>a lifelong learner</h3>
+<h1>Hi there</h1>
+<h3>Thanks for visiting!</h3>
 
 <br>
                                             
