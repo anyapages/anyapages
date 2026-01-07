@@ -1,12 +1,11 @@
-**Founder & CEO @ [Aqta](https://aqta.dev)**  
-Building the runtime governance layer for enterprise AI agents
+**Founder & CEO @ [Aqta](https://aqta.ai)**  
 
 ### 🚀 Currently Building
-*   **[Aqta](https://aqta.dev)** – AI Governance Gateway (Loop detection, EU AI Act compliance, Cost circuit breakers)
+*   **[Aqta](https://aqta.ai)** – AI Governance Gateway 
 
 ### 🛠️ Stack
 *   **Core:** TypeScript, Python, Next.js, PostgreSQL
-*   **AI:** OpenAI SDK, LangChain, Anthropic, AWS Lambda
+*   **AI:** OpenAI SDK, LangChain, Anthropic, AWS Lambda, Google
 *   **Focus:** AI Safety, System Resilience, Governance Engineering
 
 ---
