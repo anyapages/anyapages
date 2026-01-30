@@ -9,4 +9,4 @@
 *   **Focus:** AI Safety, System Resilience, Governance Engineering
 
 ---
-[<img src="https://komarev.com/ghpvc/?username=anyapages&label=Views&color=0e75b6&style=flat-square" alt="anyapages" />](https://github.com/anyapages)
+
