@@ -1,12 +1,32 @@
-**Founder & CEO @ [Aqta](https://aqta.ai)**  
+# Anya
 
-### 🚀 Currently Building
-*   **[Aqta](https://aqta.ai)** – AI Governance Gateway 
+**Founder & CEO @ Aqta**
 
-### 🛠️ Stack
-*   **Core:** TypeScript, Python, Next.js, PostgreSQL
-*   **AI:** OpenAI SDK, LangChain, Anthropic, AWS Lambda, Google
-*   **Focus:** AI Safety, System Resilience, Governance Engineering
+Building agentic security infrastructure for AI systems.
+
+## 🚀 Currently Building
+
+**[Aqta](https://aqta.ai)** – Agentic Security Infrastructure  
+Gateway layer that prevents runaway costs, detects infinite loops, and ensures governance for AI systems.
+
+## 🎯 Focus Areas
+
+- **Agentic Security** – Protecting AI systems from threats and abuse
+- **Infrastructure Engineering** – Building resilient, scalable systems
+- **AI Governance** – Compliance and audit trails for regulated industries
+
+## 🛠️ Stack
+
+**Languages:** TypeScript, Python  
+**Infrastructure:** Next.js, PostgreSQL, FastAPI  
+**AI Providers:** OpenAI, Anthropic, Google, Perplexity
+
+## 📫 Connect
+
+- **Website:** [aqta.ai](https://aqta.ai)
+- **Email:** anya@aqta.ai
+- **Product:** [app.aqta.ai](https://app.aqta.ai)
 
 ---
 
+*Building the security layer for the agentic era*
