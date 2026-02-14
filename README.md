@@ -6,8 +6,7 @@ Building agentic security infrastructure for AI systems.
 
 ## 🚀 Currently Building
 
-**[Aqta](https://aqta.ai)** – Agentic Security Infrastructure  
-Gateway layer that prevents runaway costs, detects infinite loops, and ensures governance for AI systems.
+**[Aqta](https://aqta.ai)** 
 
 ## 🎯 Focus Areas
 
