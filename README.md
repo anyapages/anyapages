@@ -4,8 +4,7 @@ I'm Anya, building the future of AI infrastructure.
 
 ## 🚀 Currently Working On
 
-**[Aqta](https://aqta.ai)** - Agentic Security Infrastructure  
-Stop runaway costs, detect loops, and ensure governance for AI systems.
+**[Aqta](https://aqta.ai)** 
 
 ## 🛠️ Tech Stack
 
@@ -19,7 +18,7 @@ Stop runaway costs, detect loops, and ensure governance for AI systems.
 
 - **Website:** [aqta.ai](https://aqta.ai)
 - **Email:** hello@aqta.ai
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/anyapages)
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/anya-pc)
 
 ---
 
