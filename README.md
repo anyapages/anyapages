@@ -1,7 +1,7 @@
-# hi, i'm anya
+# Hi, I'm Anya
 
-i make AI leave a paper trail.
+I make AI keep the receipt.
 
-building [aqta](https://aqta.ai) (signed receipts for AI decisions) · previously shipped ML at tiktok · currently collecting stamps of both kinds (passport + cryptographic)
+Building [aqta](https://aqta.ai). Signed records for AI decisions, verifiable without us. Previously shipped ML at TikTok. Still collecting stamps (passport and cryptographic).
 
 [anyachueayen.com](https://anyachueayen.com) · [github.com/Aqta-ai](https://github.com/Aqta-ai)
