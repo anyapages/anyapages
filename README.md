@@ -1,1 +1,1 @@
-(•ᴥ•)  Still collecting stamps (passport and cryptographic)
+Still collecting stamps (passport and cryptographic)
