@@ -1,3 +1,5 @@
+<img alt="A pixel plane tows a banner reading ANYA across a sky, then a portrait, four skill cards, and the site address" src="assets/anyapages.gif" width="640">
+
 Still collecting stamps (passport and cryptographic)
 
 <a href="https://websummit.com/">
@@ -8,3 +10,5 @@ Still collecting stamps (passport and cryptographic)
 </a>
 
 Developer Ambassador and Developer Programme, Web Summit 2026
+
+[anyachueayen.com](https://anyachueayen.com)
