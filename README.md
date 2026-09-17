@@ -10,5 +10,3 @@ Still collecting stamps (passport and cryptographic)
 </a>
 
 Developer Ambassador and Developer Programme, Web Summit 2026
-
-[anyachueayen.com](https://anyachueayen.com)
